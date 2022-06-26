@@ -1,0 +1,5 @@
+package jsdemo
+
+func main() {
+
+}
